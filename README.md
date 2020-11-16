@@ -1,3 +1,6 @@
+### 👋 Hi My name is taxijjang
+
+</br>
 
 **Languages and Tools**  
 
@@ -7,6 +10,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br>
+</br>
 
-[![taxijjang's github stats](https://github-readme-stats.vercel.app/api?username=taxijjang&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![taxijjang's github stats](https://github-readme-stats.vercel.app/api?username=taxijjang)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taxijjang)](https://github.com/anuraghazra/github-readme-stats)
