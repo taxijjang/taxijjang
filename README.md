@@ -1,4 +1,6 @@
 ### 👋 Hi My name is taxijjang
+##### 파이썬이 좋은 백엔드 개발자 입니다 ㅎ__ㅎ
+##### I'm a backend developer who loves python. ㅎ__ㅎ
 
 </br>
 
