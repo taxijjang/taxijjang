@@ -1,8 +1,16 @@
 ### 👋 Hi My name is taxijjang
-##### 파이썬이 좋은 백엔드 개발자 입니다 ㅎ__ㅎ
-##### I'm a backend developer who loves python. ㅎ__ㅎ
 
-</br>
+---
+
+#### 파이썬이 좋은 백엔드 개발자 입니다.
+#### I'm a backend developer who loves python.
+
+---
+
+**큐리어슬리** @Quriously <sub><sup>큐리어슬리 BE (2021.03 ~ ing)</sup></sub><br>
+**테스시스템** @TesSysetm <sub><sup>테스시스템 BE 계약직 (2020.06 ~ 2020.09)</sup></sub>
+
+---
 
 **Languages and Tools**  
 
