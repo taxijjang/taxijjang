@@ -27,7 +27,9 @@
 
 [![taxijjang's github stats](https://github-readme-stats.vercel.app/api?username=taxijjang)](https://github.com/anuraghazra/github-readme-stats)
 
+</br>
 
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=taxijjang" width=495/>
 
 </br>
 
