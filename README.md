@@ -1,6 +1,6 @@
 #### Career
-**큐리어슬리** @Quriously <sub><sup>큐리어슬리 BE (2021.03 ~ ing)</sup></sub><br>
-**테스시스템** @TesSysetm <sub><sup>테스시스템 BE 계약직 (2020.06 ~ 2020.09)</sup></sub>
+**큐리어슬리** @Quriously <sub><sup>큐리어슬리 BE (python) (2021.03 ~ ing)</sup></sub><br>
+**테스시스템** @TesSysetm <sub><sup>테스시스템 BE (python) (2020.06 ~ 2020.09)</sup></sub>
 
 ---
 #### Languages and Tools
