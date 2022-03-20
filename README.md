@@ -20,6 +20,9 @@
 #### Algorithm (solved.ac)
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=taxijjang" width=300/>
 
-</br>
+---
+
+#### OPGC
+<a href="https://opgc.me/#/users/taxijjang" target="_blank"><img src="https://api.opgc.me/githubs/users/taxijjang/tag/?theme=basic" width=300/></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taxijjang)](https://github.com/anuraghazra/github-readme-stats) -->
