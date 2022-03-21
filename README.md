@@ -18,8 +18,10 @@
 ---
 
 #### Algorithm (solved.ac)
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=taxijjang" width=300/>
-
+<!-- <img src="http://mazassumnida.wtf/api/generate_badge?boj=taxijjang" width=300/> -->
+  <a href="https://solved.ac/profile/taxijjang">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taxijjang" />
+  
 ---
 
 #### OPGC
