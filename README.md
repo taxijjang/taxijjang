@@ -24,7 +24,7 @@
   
 ---
 
-#### OPGC
-<a href="https://opgc.me/#/users/taxijjang" target="_blank"><img src="https://api.opgc.me/githubs/users/taxijjang/tag/?theme=prism" width=300/></a>
+<!-- #### OPGC -->
+<!-- <a href="https://opgc.me/#/users/taxijjang" target="_blank"><img src="https://api.opgc.me/githubs/users/taxijjang/tag/?theme=prism" width=300/></a> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taxijjang)](https://github.com/anuraghazra/github-readme-stats) -->
