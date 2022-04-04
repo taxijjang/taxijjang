@@ -2,10 +2,9 @@
 **큐리어슬리** @Quriously <sub><sup>큐리어슬리 BE (python) (2021.03 ~ ing)</sup></sub><br>
 **테스시스템** @TesSysetm <sub><sup>테스시스템 BE (python) (2020.06 ~ 2020.09)</sup></sub>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=taxijjang&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
-  <a href="https://www.notion.so/Android-10ce4d4589b340a69f97409f2acaeba9" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
+<a href="https://nosy-eyebrow-4f4.notion.site/0edf2d98dc364f33b4a47530c816c31d" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+</a>
   
 ---
 
