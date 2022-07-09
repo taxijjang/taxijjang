@@ -26,10 +26,8 @@
 <!-- <img src="http://mazassumnida.wtf/api/generate_badge?boj=taxijjang" width=300/> -->
   <a href="https://solved.ac/profile/taxijjang">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=taxijjang" />
- 
----
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaxijjang%2Fhit-counter&count_bg=%23D8E602&title_bg=%233247AE&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaxijjang%2Fhit-counter&count_bg=%23D8E602&title_bg=%233247AE&icon=proto-dot-io.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 <!-- #### OPGC -->
 <!-- <a href="https://opgc.me/#/users/taxijjang" target="_blank"><img src="https://api.opgc.me/githubs/users/taxijjang/tag/?theme=prism" width=300/></a> -->
