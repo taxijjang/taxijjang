@@ -2,7 +2,7 @@
 **큐리어슬리** @Quriously <sub><sup>큐리어슬리 BE (python) (2021.03 ~ ing)</sup></sub><br>
 **테스시스템** @TesSysetm <sub><sup>테스시스템 BE (python) (2020.06 ~ 2020.09)</sup></sub>
 
-<a href="https://www.notion.so/0edf2d98dc364f33b4a47530c816c31d" target="_blank">
+<a href="https://nosy-eyebrow-4f4.notion.site/d6de51776c3a4b9ab92e81f4b1759358?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 
